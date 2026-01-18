@@ -1,5 +1,5 @@
 import json
-from models import SimpleMLModels
+from simple_models import SimpleMLModels
 
 class MLWebsiteGenerator:
     def __init__(self):
