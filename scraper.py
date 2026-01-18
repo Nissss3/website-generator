@@ -143,3 +143,4 @@ if __name__ == "__main__":
     print(f"Found {len(urls)} URLs to scrape")
     scraper = SimpleWebsiteScraper()
     scraper.scrape_batch(urls[:100])
+

@@ -3,3 +3,6 @@ beautifulsoup4
 selenium
 webdriver-manager
 pillow
+transformers
+torch
+sentence-transformers
